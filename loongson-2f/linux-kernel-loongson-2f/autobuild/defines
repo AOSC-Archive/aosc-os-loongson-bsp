@@ -1,0 +1,9 @@
+PKGNAME=linux-kernel-loongson-2f-4.1.42
+PKGSEC=kernel
+PKGDEP=""
+BUILDDEP="bc dracut git"
+PKGDES="Linux Kernel version 4.1.42 for loongson-2f platform"
+
+ABSTRIP=no
+ABELFDEP=no
+ABRPMAUTOPROVONLY=yes
